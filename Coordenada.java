@@ -1,7 +1,6 @@
 package beecrowd;
 
 import java.util.Scanner;
-import java.text.DecimalFormat;
 
 public class Coordenada {
 	static Scanner console = new Scanner(System.in);
